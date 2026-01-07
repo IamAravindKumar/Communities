@@ -159,7 +159,7 @@
   },
   {
     "name": "Digital Dreamers Den (D3)",
-    "logo": "https://i.ibb.co/BKQb8hLG/D3-Community-Official-logo.png",
+    "logo": "https://i.ibb.co/Cr5BSh2/D3logo.png",
     "description": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
     "location": "Chennai",
     "twitter": "https://d3community.in/x",
@@ -341,7 +341,6 @@
     "location": "Coimbatore",
     "website": "https://www.meetup.com/platform-engineering-coimbatore/"
   },
-
   {
     "name": "JS Mavens",
     "logo": "https://i.ibb.co/W40Zh5w7/js-mavens.jpg",
@@ -441,5 +440,39 @@
     "description": "ILUGC was started on 1997 and it is an one of the oldest Linux Users Group in India. We are a heterogeneous group of computer users from the South Indian city of Chennai (a.k.a Madras), united in our use of Free/Libre/Open Source Software and support of Software Freedom in general and GNU/Linux in particular",
     "location": "Chennai",
     "website": "https://ilugc.in/"
+  },
+  {
+    "name": "OpenSearch User Group Chennai",
+    "logo": "https://res.cloudinary.com/dfhtr1rwo/image/upload/v1762066985/opensearch_logo_hg3k8s.png",
+    "description": "OpenSearch User Group Chennai is a community for everyone passionate about search, observability, security analytics, and AI. Join us to connect, learn, and grow with Chennai's open-source search community.",
+    "location": "Chennai",
+    "website": "https://www.meetup.com/opensearch-project-chennai/",
+    "github": "https://github.com/opensearch-project",
+    "linkedin": "https://www.linkedin.com/company/opensearch-project/",
+    "twitter:": "https://x.com/OpenSearchProj",
+    "slack": "https://opensearch.org/slack/",
+    "youtube": "https://www.youtube.com/@OpenSearchProject"
+  },
+  {
+    "name": "Codesapiens",
+    "logo": "https://i.ibb.co/bgwW96Mh/logo.png",
+    "description": "Our vision is to bring our students to collaborate, share, grow and in the process have lots of fun together. We envision a platform managed and grown by students themselves, where they can build their career based on their interests and skills. We strive to Help, Empower, and ensure everything is Fun.",
+    "location": "Chennai",
+    "website": "https://codesapiens.in/",
+    "github": "https://github.com/Codesapiens-in",
+    "linkedin": "https://www.linkedin.com/company/codesapiens-community",
+    "twitter:": "https://x.com/codesapiens_in",
+    "discord": "https://discord.gg/pzqEPvzn",
+    "youtube": "https://www.youtube.com/@codesapiens-in",
+    "instagram": "https://www.instagram.com/codesapiens.in/"
+  },
+  {
+    "name": "Shebuilds Chennai",
+    "logo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png",
+    "description": "Our vision is to bring women-in-tech together to collaborate, share, grow and in the process empower women in tech to innovate and lead.",
+    "location": "Chennai",
+    "website": "https://shebuilds-chennai.tech/",
+    "linkedin": "https://www.linkedin.com/company/shebuildshack/",
+    "instagram": "https://www.instagram.com/shebuilds_chennai?igsh=MXVndDBsdGwyYjZwNA=="
   }
 ]
